@@ -1,3 +1,11 @@
+
+---
+title: Home Page
+draft: false
+tags:
+  - Main-Page
+---
+
 # Welcome to Intralox's Engineering Mold Shop Team!
 
 This knowledge database is created by an intern for you, an intern! (Maybe) I'm going to try my best to walk you through all the setup processes so you can be good to go for your first project!
