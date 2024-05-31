@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "🪴 Intralox-EMS",
+    pageTitle: "⚙️ Intralox-EMS",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
