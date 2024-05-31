@@ -1,6 +1,6 @@
 
 ---
-title: Home Page
+title: Subdomain Home
 draft: false
 tags:
   - Main-Page
