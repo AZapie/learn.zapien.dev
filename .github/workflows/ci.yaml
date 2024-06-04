@@ -6,7 +6,7 @@ on:
       - v4
   push:
     branches:
-      - master
+      - v4
 
 jobs:
   build-and-test:
