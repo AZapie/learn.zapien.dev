@@ -28,3 +28,8 @@ tags:
 
 > "I'm going to drop balls every day. I just need to figure out which are glass and which are plastic"
 
+### Prioritizing:
+- Maintain an active list with ~3 things that you can do at a time
+- Have an "inactive" list where you can get things off your mind
+	- You're already working on this through a task pool and Kanban boards.
+	- Hone it all with "priority" assignments
