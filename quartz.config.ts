@@ -16,7 +16,7 @@ const config: QuartzConfig = {
     },
     locale: "en-US",
     baseUrl: "learn.zapien.dev",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    ignorePatterns: ["private", "templates", ".obsidian", "Public-Non-Website"],
     defaultDateType: "created",
     theme: {
       fontOrigin: "googleFonts",
