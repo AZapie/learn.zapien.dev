@@ -28,7 +28,17 @@ An existing company should always parse through their data to identify patterns 
 A journalist communicates directly with customers to gain insights relevant to the business. A Value Proposition Canvas can be used to prepare for interviews and help tie together masses of information that will be flowing in during an interview. There are seven key steps to this process.
 
 ##### Step 1: Creating a customer profile.
-- Take note of the jobs, pains, and gains that you believe to summarize the customer you are targeting. Create a priority queue of the jobs, pains, and gains.
+- Take note of the jobs, pains, and gains that you believe to summarize the customer you are targeting. Create a priority list of the jobs, pains, and gains.
+##### Step 2: Creating an interview outline
+- What is it that you're trying to learn from this interview? Build questions based on the created customer profile and ask the customer what they consider their jobs, pains, and gains are and could be.
+##### Step 3: Conducting the interview
+Follow these ground rules when interviewing the potential customer.
+- Listen like a novice. Avoid interrupting the customer's train of thought and make sure to dive into unexpected jobs, pains, or gains.
+- Listen more than you talk. You are not there to inform, but to be informed. Time wasted talking about yourself is done so at your expense.
+- Seek facts and examples, not opinions. Avoid hypothetical questions and stick to inquiring about past experiences
+- Explore the "why?" Understanding the root of everything not only helps you understand the customer's perspective, but also adds an entire layer of context to your goal.
+- The interview, again, is to learn. Don't try to sell the customer anything just yet. Instead explore their decision criteria and learn learn what the customer would be willing to or is looking to purchase.
+- 
 
 ### Making Choices
 ### Finding the Right Business Model
