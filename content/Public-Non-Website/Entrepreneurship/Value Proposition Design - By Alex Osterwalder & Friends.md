@@ -40,6 +40,18 @@ Follow these ground rules when interviewing the potential customer.
 - The interview, again, is to learn. Don't try to sell the customer anything just yet. Instead explore their decision criteria and learn learn what the customer would be willing to or is looking to purchase.
 - Don't mention any solutions yet. Ask what their biggest pains are, and analyze if your planned solution will remedy their pains.
 - Circle Back! Ask your interviewee for their contact information to establish a continued communicative relationship with them. This will help in the prototype iteration process.
+- Always open doors to more people at the end. Ask the interviewee who else you should interview
+##### Step 4: Capture
+Lay out the jobs, pains, and gains that you learned about from your interview on a fresh customer profile. 
+
+##### Step 5: Review the interview
+Comb through the knowledge gained from the interview, and determine if there are any gaps remaining. From here, you can loop back to **Step 2** or move on to **Step 6**
+
+##### Step 6: Search for patterns
+Are there any other similar jobs, pains, or gains that your customer expressed to past or concurrent projects? What varies between interviewees, and what constants do they have? Similar contexts can lead to opportunity.
+
+##### Step 7: Synthesize
+Create a distinct synthesized customer profile for every customer segment that is derived from all your interviews. Record your most important insights. 
 
 ### Making Choices
 ### Finding the Right Business Model
