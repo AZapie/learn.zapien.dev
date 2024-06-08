@@ -38,7 +38,8 @@ Follow these ground rules when interviewing the potential customer.
 - Seek facts and examples, not opinions. Avoid hypothetical questions and stick to inquiring about past experiences
 - Explore the "why?" Understanding the root of everything not only helps you understand the customer's perspective, but also adds an entire layer of context to your goal.
 - The interview, again, is to learn. Don't try to sell the customer anything just yet. Instead explore their decision criteria and learn learn what the customer would be willing to or is looking to purchase.
-- 
+- Don't mention any solutions yet. Ask what their biggest pains are, and analyze if your planned solution will remedy their pains.
+- Circle Back! Ask your interviewee for their contact information to establish a continued communicative relationship with them. This will help in the prototype iteration process.
 
 ### Making Choices
 ### Finding the Right Business Model
